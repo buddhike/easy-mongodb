@@ -1,6 +1,6 @@
 {
   "name": "easy-mongodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mongo db utilities.",
   "author": "Buddhike de Silva",
   "license": "MIT",
@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "easy-ensure": "0.0.1",
-    "lodash": "^4.12.0"
+    "lodash": "^4.12.0",
+    "mongodb": "^2.1.19"
   }
 }
